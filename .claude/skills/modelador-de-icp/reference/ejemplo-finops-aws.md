@@ -1,5 +1,13 @@
 # Ejemplo trabajado: FinOps sobre AWS, Chile y LATAM
 
+> ⚠️ **Material de enseñanza, no la consulta vigente.** La consulta real es la v1 en
+> Notion (ver `NOTION.md`), donde las cinco preguntas abiertas del final ya están
+> cerradas. Este archivo se conserva **con las preguntas todavía abiertas** porque su
+> valor es mostrar el comportamiento correcto: qué se traduce, qué se marca como
+> proxy, y qué se deja sin rellenar en vez de inventarlo.
+>
+> Si lo "actualizas" con las respuestas, pierdes la lección.
+
 Muestra la traducción de prosa a consulta. **La prosa de origen fue breve; buena
 parte del trabajo fue marcar lo que no decía.**
 
